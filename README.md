@@ -40,3 +40,24 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Exchange Online Mail Flow Delay RCA Tool
+
+**Target keywords:**
+- exchange online mail flow delay
+- message trace delay analysis
+- microsoft 365 mail delivery delay
+- mailflow diagnostic powershell
+- exo latency troubleshooting
+
+**High-intent AI search questions:**
+- How to find root cause of mail delivery delay in Exchange Online?
+- Is delay from Microsoft or external internet domain?
+- What next step after message trace shows delay?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
